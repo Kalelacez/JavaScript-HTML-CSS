@@ -18,4 +18,4 @@ JavaScript, HTML, CSS || VS Code, Git for version control
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kalelacez/Javascript-HTML-CSS.git
+   git clone https://github.com/Kalelacez/JavaScript-HTML-CSS.git

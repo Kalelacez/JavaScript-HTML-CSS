@@ -1,13 +1,16 @@
-# Java Mini Project Studies
+# JS Mini Project Studies
 
-A collection of **mini Java projects** I created,
-This repository is meant for practicing **Java fundamentals.**
+A collection of **JS projects** I created,
+This repository is meant for practicing **JavaScript fundamentals.**
 
 Technologies used:
- Java 17+, IntelliJ IDEA || VS Code, Git for version control
+JavaScript, HTML, CSS || VS Code, Git for version control
 
 ## 📂 Projects Included
-- **Project 1:** [Bank] – Little bank simulation running on terminal
+- **Yaya** [Mini-game] – a mini game run in the web made for my girlfriend
+- **Organizador-Refeições** [calorie-tracker] – a calorie tracker for certain foods
+- **Numero-Secreto** [Mini-game] – a mini game where you try to guess a secret number
+- **Mario-Game** [Mini-game] – a MARIO mini game run in the web made with CSS
 
 ## 🚀 How to Run
 1. Clone the repository:

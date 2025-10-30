@@ -9,7 +9,7 @@ JavaScript, HTML, CSS || VS Code, Git for version control
 ## 📂 Projects Included
 - **Yaya** [Mini-game] – a mini game run in the web made for my girlfriend
 
-- **Organizador-Refeições** [calorie-tracker] – a calorie tracker for certain foods
+- **Organizador-Refeições** [calorie-tracker] – a calorie tracker for certain foods / https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/ (site for referenced calories)
   
 - **Numero-Secreto** [Mini-game] – a mini game where you try to guess a secret number
   

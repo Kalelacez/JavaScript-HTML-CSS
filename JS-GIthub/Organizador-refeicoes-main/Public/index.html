@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Page Title</title>
+</head>
+<body>
+    <h1>Organizador de refeições</h1>
+    <p>Escolha uma comida para a refeição</p>  
+<select name="" id="opcao"> 
+    <option value="1.64" label="peito de frango">frango</option>
+    <option value="1.29" label="arroz cozido">arroz</option> 
+    <option value="0.76" label="feijão cozido">feijão</option>
+    <option value="0.08" label="salada de alface">salada</option>
+    <option value="0.82" label="batata inglesa">batata</option>
+</select>
+<input id="quantidade" type="number" placeholder="quantidade (g)">
+<button onclick="adicionarRef()">Adicionar a refeição</button>
+<button onclick="reiniciar()">Nova refeição</button>
+<p>Refeição</p>  
+<p id="refeicao" class="refeicoes"></p>
+<p id="calorias" class="cals"></p>
+    <script src="js/script.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</body>
+</html>
